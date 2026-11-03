@@ -1,0 +1,10 @@
+{
+  "name": "Remix JARVIS AURA",
+  "description": "Centro di comando AI personale JARVIS AURA con account protetti da password e abbonamento premium per il creatore.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
